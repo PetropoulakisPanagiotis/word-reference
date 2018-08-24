@@ -3,7 +3,7 @@
 Find the definition of a given world!
 
 ## How It Works
-Word reference use a .json file that keeps the definitions of each word. 
+Word reference uses a .json file that keeps the definitions of each word. 
 
 ## Compilation/Run
 Use make file
