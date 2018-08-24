@@ -9,5 +9,5 @@ Word reference use a .json file that keeps the definitions of each word.
 Use make file
 
 ## Authors
-* Petropoulakis Panagiotis petropoulakispanagiotis@gmail.com
+* Petropoulakis Panagiotis petropoulakispanagiotis@gmail.com <br />
 Note: Thank you Ardit Sulce for your python turotial(The Python Mega Course: Build 10 Real World Applications)
