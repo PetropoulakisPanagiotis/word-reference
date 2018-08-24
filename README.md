@@ -1,6 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Word reference 
- Word reference use a .json file that keeps the definitions of each word. 
+Find the definition of a given world!
+
+## How It Works
+Word reference use a .json file that keeps the definitions of each word. 
 
 ## Compilation/Run
 Use make file
