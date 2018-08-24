@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Word reference 
-This program is a word reference console application. I use a file .json. Inside this file there are words with their definitions. I ask from the user to give a word and then i return it's definition.
+ Word reference use a .json file that keeps the definitions of each word. 
 
 ## Compilation/Run
 Use make file
