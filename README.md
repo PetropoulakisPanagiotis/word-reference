@@ -1,13 +1,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Word reference 
-Find the definition of a given world!
+Find the definition of a given word.
 
 ## How It Works
-Word reference uses a .json file that keeps the definitions of each word. 
+Word reference makes use of a .json file that contains definitions words. 
 
-## Compilation/Run
-Use make file
+## Excecution
+```
+# cd word-reference
+$ ./make
+```
 
 ## Authors
 * Petropoulakis Panagiotis petropoulakispanagiotis@gmail.com <br />
-Note: Thank you Ardit Sulce for your python turotial(The Python Mega Course: Build 10 Real World Applications)
+
+Acknowledgements: Ardit Sulce - The Python Mega Course: Build 10 Real World Applications
