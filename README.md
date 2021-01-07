@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Word reference 
+# Word Reference 
 Find the definition of a given word.
 
 ## How It Works
