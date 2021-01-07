@@ -7,7 +7,7 @@ Word reference makes use of a .json file that contains definitions words.
 
 ## Excecution
 ```
-# cd word-reference
+$ cd word-reference
 $ ./make
 ```
 
