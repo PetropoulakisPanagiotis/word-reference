@@ -3,7 +3,7 @@
 Find the definition of a given word.
 
 ## How It Works
-Word reference make use of a .json file that contains definitions of words. 
+Word reference makes use of a .json file that contains the definitions of the words. 
 
 ## Excecution
 ```
