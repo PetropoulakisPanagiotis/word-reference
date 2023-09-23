@@ -14,4 +14,5 @@ $ ./make
 ## Authors
 * Petropoulakis Panagiotis petropoulakispanagiotis@gmail.com <br />
 
-Acknowledgements: Ardit Sulce - The Python Mega Course: Build 10 Real World Applications
+#### Acknowledgements: 
+* Ardit Sulce - The Python Mega Course: Build 10 Real-World Applications
